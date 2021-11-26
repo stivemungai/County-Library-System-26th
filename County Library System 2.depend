@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637922676 source:c:\users\student\desktop\kmkdcs0111152021\county library system 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
